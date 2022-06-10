@@ -1,0 +1,56 @@
+/**
+ * Do not edit directly
+ * Generated on Fri, 10 Jun 2022 23:48:25 GMT
+ */
+
+:root {
+  --global-color-important: #45ff56;
+  --global-color-black: #101010;
+  --global-color-brand-color: #6d6d6d;
+  --global-color-brand-color-light: #fdd135;
+  --global-color-white: #ffffff;
+  --global-color-light-gray: #bfbdbd;
+  --global-color-brand-gradien: linear-gradient(151deg, #020f7f 0%, #5d074a 100%);
+  --global-font-families-inter: Inter;
+  --global-font-families-poppins: Poppins;
+  --global-line-heights-0: 24;
+  --global-line-heights-1: 100;
+  --global-line-heights-2: 96;
+  --global-line-heights-3: 60;
+  --global-line-heights-4: 56;
+  --global-line-heights-5: 40;
+  --global-line-heights-6: 150%;
+  --global-font-weights-inter-0: Regular;
+  --global-font-weights-inter-1: Bold;
+  --global-font-weights-poppins-0: Bold;
+  --global-font-weights-inter-2: Regular;
+  --global-font-size-0: 16;
+  --global-font-size-1: 20;
+  --global-font-size-2: 32;
+  --global-font-size-3: 42;
+  --global-font-size-4: 56;
+  --global-font-size-5: 88;
+  --global-font-size-6: 96;
+  --global-letter-spacing-0: 0%;
+  --global-letter-spacing-1: -2%;
+  --global-paragraph-spacing-0: 0;
+  --global-typographie-btn-text: [object Object];
+  --global-typographie-h1: [object Object];
+  --global-typographie-h2: [object Object];
+  --global-typographie-h3: [object Object];
+  --global-typographie-h4: [object Object];
+  --global-typographie-h5: [object Object];
+  --global-typographie-body-reg: [object Object];
+  --global-typographie-body-bold: [object Object];
+  --global-typographie-header-1: [object Object];
+  --global-typographie-header-2: [object Object];
+  --global-typographie-header-3: [object Object];
+  --global-typographie-header-5: [object Object];
+  --global-text-case-none: none;
+  --global-text-case-uppercase: uppercase;
+  --global-text-decoration-none: none;
+  --global-border-radius: 8px;
+  --global-secondary: #181473;
+  --global-size: 8px;
+  --global-size-1: 8px;
+}
