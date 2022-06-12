@@ -1,0 +1,9 @@
+.btn-primary {
+    background-color: var(--global-color-brand-color-light);
+    color: var(--global-secondary);
+    border-style: none;
+}
+
+h1 {
+    size: var(--global-typographie-h1);
+}
